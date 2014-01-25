@@ -1,0 +1,5 @@
+Pour compiler un fichier java et générer un fichier .class:
+javac MON_FICHIER.java
+
+Pour exécuter MON_FICHIER.class:
+java MON_FICHIER
