@@ -1,13 +1,9 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# trololo
+thumbs.db
+.DS_Store
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+*.pyc
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+temp
+out
+bin
