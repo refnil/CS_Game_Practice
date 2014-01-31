@@ -1,0 +1,7 @@
+Usage: parsing_options.py [options] [args]
+
+Options:
+  -h, --help            show this help message and exit
+  -o OPTION_LIST_NAME, --option=OPTION_LIST_NAME
+                        help text for the option
+  -p, --predicate       help text for the predicate
